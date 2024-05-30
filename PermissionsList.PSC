@@ -16,3 +16,5 @@ The Amazing Ant
 >> MentalCheck > WatchMental
 redfun121
 shadow․557926 cd4e
+
+>> BannedPeople > Banned
